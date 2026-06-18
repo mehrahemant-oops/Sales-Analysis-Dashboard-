@@ -43,23 +43,20 @@ Hemant
 
 ## Dashboard Screenshots
 
-### Overview
+### Overview Dashboard
 ![Overview](Overview.png)
+
+### Customer & Segment Analysis
+![Customer & Segment Analysis](Customer_Segment_Analysis.png)
+
+### Product & Category Performance
+![Product & Category Performance](Product_Category_Performance.png)
 
 ### Profit & Discount Analysis
 ![Profit & Discount Analysis](Profit_Discount_Analysis.png)
 
-### Customer Segmentation
-![Customer Segmentation](Customer_Segmentation.png)
-
 ### Regional Market Analysis
 ![Regional Market Analysis](Regional_Market_Analysis.png)
 
-### Product Category Analysis
-![Product Category Analysis](Product_Category_Analysis.png)
-
-### Sales Pipeline
-![Sales Pipeline](Sales_Pipeline_Opportunity_Tracking.png)
-
-### Shipping & Delivery
-![Shipping & Delivery](Shipping_Delivery_Performance.png)
+### Sales Pipeline & Opportunity Tracking
+![Sales
