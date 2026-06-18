@@ -40,3 +40,26 @@ A Business Intelligence and Data Analytics project developed to transform 48 mon
 
 ## Author
 Hemant
+
+## Dashboard Screenshots
+
+### Overview
+![Overview](Overview.png)
+
+### Profit & Discount Analysis
+![Profit & Discount Analysis](Profit_Discount_Analysis.png)
+
+### Customer Segmentation
+![Customer Segmentation](Customer_Segmentation.png)
+
+### Regional Market Analysis
+![Regional Market Analysis](Regional_Market_Analysis.png)
+
+### Product Category Analysis
+![Product Category Analysis](Product_Category_Analysis.png)
+
+### Sales Pipeline
+![Sales Pipeline](Sales_Pipeline_Opportunity_Tracking.png)
+
+### Shipping & Delivery
+![Shipping & Delivery](Shipping_Delivery_Performance.png)
